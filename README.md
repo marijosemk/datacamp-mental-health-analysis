@@ -35,3 +35,7 @@ DataCamp Project: Analyzing Students’ Mental Health
 
 - mental_health_analysis.sql – SQL query used for the analysis.
 - README.md – Project documentation.
+
+![SQL Query](sql_query.png)
+
+![Results](results.png)
